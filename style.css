@@ -162,7 +162,7 @@ iframe {
 footer{
     color: #61798d;
     position: absolute;
-    top: 260%;
+    top: 240%;
     left: 76%;
 }
 
@@ -287,7 +287,7 @@ footer{
     .html {
         width: 100px;
         left: 30%;
-        top: 120%;
+        top: 100%;
     }
 
     .robo {
@@ -331,7 +331,7 @@ footer{
     footer{
         margin-bottom: px;
         color: #61798d;
-        top: 423%;
+        top: 413%;
         left: 12%;
     }
 
@@ -347,7 +347,7 @@ footer{
     .assembly {
         position: absolute;
         left: 44%;
-        top: 235%;
+        top: 225%;
         animation: vaiEvem 2s ease-in-out infinite alternate;
     }
 
