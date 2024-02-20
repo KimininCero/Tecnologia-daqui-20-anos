@@ -10,17 +10,17 @@ body {
 
 @font-face {
     font-family: font1;
-    src: url(/SuperPotato.ttf);
+    src: url(SuperPotato.ttf);
 }
 
 @font-face {
     font-family: font2;
-    src: url(/Christine.otf);
+    src: url(Christine.otf);
 }
 
 @font-face {
     font-family: font3;
-    src: url(/VCR.ttf);
+    src: url(VCR.ttf);
 }
 
 header{
