@@ -287,7 +287,7 @@ footer{
     .html {
         width: 100px;
         left: 30%;
-        top: 100%;
+        top: 120%;
     }
 
     .robo {
@@ -347,7 +347,7 @@ footer{
     .assembly {
         position: absolute;
         left: 44%;
-        top: 225%;
+        top: 245%;
         animation: vaiEvem 2s ease-in-out infinite alternate;
     }
 
