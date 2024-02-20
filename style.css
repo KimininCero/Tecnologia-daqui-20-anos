@@ -331,7 +331,7 @@ footer{
     footer{
         margin-bottom: px;
         color: #61798d;
-        top: 340%;
+        top: 353%;
         left: 12%;
     }
 
@@ -347,7 +347,7 @@ footer{
     .assembly {
         position: absolute;
         left: 44%;
-        top: 240%;
+        top: 237%;
         animation: vaiEvem 2s ease-in-out infinite alternate;
     }
 
